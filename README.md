@@ -1,5 +1,5 @@
  # React stripe integration
- <h3>Live at</h3> https://richpanelfront.web.app/home
+ <h3>Live at</h3> https://richpanelfront.web.app
  
  ![image](https://user-images.githubusercontent.com/62851444/181343501-915f1cd1-491a-4b8e-bf23-72f6f9166b8d.png)
 ![image](https://user-images.githubusercontent.com/62851444/181343559-84040d85-1be2-40c1-a690-d1cf9f753a7c.png)
